@@ -1,6 +1,6 @@
 import React from 'react'
 
-function login() {
+function Login() {
   return (
       <div className='login-page'>
           <div className='container'>
@@ -56,4 +56,4 @@ function login() {
   )
 }
 
-export default login
+export default Login
