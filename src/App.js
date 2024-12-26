@@ -7,11 +7,7 @@ import New from './Components/New';
 function App() {
   return (
     <div className="App">
-
-
       <New />
-
-
     </div>
   );
 }

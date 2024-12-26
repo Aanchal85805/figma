@@ -24,6 +24,7 @@ function New() {
           <button className='signup-btn'>Sign Up</button>
         </div>
       </div>
+
       <div className='main'>
         <div className='main-heading '>
           <h1>Get measurable results<br></br>
@@ -34,20 +35,21 @@ function New() {
               <button className='start-btn'>Start now</button>
           </div>
         </div>
-          <div className='brands'>
+        <div className='brands'>
             <div className='brand-heading'>
                <p>Trusted by the world’s leading brands</p>
             </div>
          
             <div className='brand-name'>
-             <img src='./myImage/amazon-logo.png' alt="Description of imag"></img>
-             <img src='./myImage/quora-logo.png' alt="Description of imag"></img>
+             <img src='./myImage/amazon-logo.png' alt="Description of imag" />
+      
+                  
+              <img src='./myImage/quora-logo.png' alt="Description of imag" />
+              <img src='./myImage/p&g.png' alt="Description of imag" />
           
-              <img src='./myImage/p&g.png' alt="Description of imag"></img>
+              <img src='./myImage/vodafone-logo.png' alt="Description of imag" />
           
-              <img src='./myImage/vodafone-logo.png' alt="Description of imag"></img>
-          
-              <img src='./myImage/booking.com-logo.png' alt="Description of imag"></img>
+              <img src='./myImage/booking.com-logo.png' alt="Description of imag" />
             </div>
           
           </div>
