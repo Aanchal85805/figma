@@ -40,19 +40,24 @@ function New() {
                <p>Trusted by the world’s leading brands</p>
             </div>
          
-            <div className='brand-name'>
-             <img src='./myImage/amazon-logo.png' alt="Description of imag" />
+         <div className='brand-name'>
+            <div className="brand-img ">
+              <img src='/myImage/amazon-logo.png' alt="amazon logo" />
       
                   
-              <img src='./myImage/quora-logo.png' alt="Description of imag" />
-              <img src='./myImage/p&g.png' alt="Description of imag" />
+              <img src='/myImage/quora-logo.png' alt="quora logo" />
+              <img src='/myImage/p&g.png' alt="p&g logo" />
           
-              <img src='./myImage/vodafone-logo.png' alt="Description of imag" />
+              <img src='/myImage/vodafone-logo.png' alt="vodafone logo" />
           
-              <img src='./myImage/booking.com-logo.png' alt="Description of imag" />
+              <img src='/myImage/booking.com-logo.png' alt="booking.com logo" />
             </div>
-          
+             
           </div>
+          
+        </div>
+            
+           
             <div className='ai-div'>
               <div className='ai'>
                 <h1><span>Yes, A</span>I Can</h1>
@@ -68,7 +73,7 @@ function New() {
                 <img src='./myImage/frame 6.png' alt="Description of imag"></img>
               </div>
           </div>
-          
+        
       </div>
       
     </div>
