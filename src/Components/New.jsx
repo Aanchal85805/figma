@@ -40,14 +40,14 @@ function New() {
             </div>
          
             <div className='brand-name'>
-             <img src='./myImage/amazon-logo.png'></img>
-             <img src='./myImage/quora-logo.png'></img>
+             <img src='./myImage/amazon-logo.png' alt="Description of imag"></img>
+             <img src='./myImage/quora-logo.png' alt="Description of imag"></img>
           
-              <img src='./myImage/p&g.png'></img>
+              <img src='./myImage/p&g.png' alt="Description of imag"></img>
           
-              <img src='./myImage/vodafone-logo.png'></img>
+              <img src='./myImage/vodafone-logo.png' alt="Description of imag"></img>
           
-              <img src='./myImage/booking.com-logo.png'></img>
+              <img src='./myImage/booking.com-logo.png' alt="Description of imag"></img>
             </div>
           
           </div>
@@ -63,7 +63,7 @@ function New() {
             <div className='frame2'>
               <h1>See what's inside</h1>
               <div className='frame6'>
-                <img src='./myImage/frame 6.png'></img>
+                <img src='./myImage/frame 6.png' alt="Description of imag"></img>
               </div>
           </div>
           
