@@ -177,10 +177,10 @@ color:   #FFFFFF;
  }
  .main-heading{
   
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
+ display: flex;
+  flex-direction: column;
+ justify-content: center;
+ align-items: center;
  }
 
  .main-heading h1 {
@@ -188,7 +188,7 @@ align-items: center;
   font-family: Inter;
 font-size: 40px;
 font-weight: 600;
-line-height: 48.41px;
+
 text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
