@@ -26,7 +26,7 @@ function New() {
       </div>
 
       <div className='main'>
-        <div className='main-heading '>
+        <div className='main-heading'>
           <h1>Get measurable results<br></br>
             from online marketing</h1>
            <p>Do SEO, content marketing, competitor research, <br></br> PPC and social media marketing from just one platform.</p>
@@ -41,10 +41,10 @@ function New() {
           </div>
           <div className='brand-name'>
             <div >
-              <img src='./myImage/825b64ac241126' alt='amazon logo'></img>
+              <img src='./myImage/amazon-logo.png' alt='amazon logo'></img>
               <img src='./myImage/vodafone-logo.png' alt='amazon logo'></img>
               <img src='./myImage/quora-logo.png' alt='amazon logo'></img>
-              <img src='./myImage//p&g.png' alt='amazon logo'></img>
+              <img src='./myImage/p&g.png' alt='amazon logo'></img>
               <img src='./myImage/booking.com-logo.png' alt='amazon logo'></img>
            </div>
           </div>
